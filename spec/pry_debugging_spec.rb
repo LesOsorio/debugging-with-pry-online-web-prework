@@ -7,7 +7,7 @@ describe "#plus_two" do
     def plus_two(num)
     num + 2
     num
-    binding.pry
+    commit
 	end
 
 end
